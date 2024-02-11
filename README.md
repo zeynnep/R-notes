@@ -13,7 +13,7 @@
 + Değişim Aralığı
 + Standart sapma
 + Varyans
-    + Çrapıklık , basıklık
+    + Çarpıklık , basıklık
 + Korelasyon
 + Güven Aralıkları 
 + Regresyon
