@@ -6,7 +6,7 @@
 + Gözlem Birimi  
 + Parametre
 + Değişkenler
-+ Ölçek Türlri
++ Ölçek Türleri
 + Aritmetik Ortalama
     + Medyan , mod , tepe değer
 + Kartiller 
@@ -18,3 +18,8 @@
 + Güven Aralıkları 
 + Regresyon
 
+# 
+### R Öğrenirken Kullanabileceğiniz Kaynaklar:
++ [R ders notları ](https://busenurk.github.io/rstudio/_book/)
++ [HarvardX: Data Science: R Basics](https://www.edx.org/learn/r-programming/harvard-university-data-science-r-basics)
++ [R notları](https://www.netderslerim.com/ders_sayfalar/web.html)
